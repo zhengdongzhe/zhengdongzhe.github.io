@@ -1,0 +1,25 @@
+{
+  "name": "郑栋哲",
+  "short_name": "猫先森",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "郑栋哲的个人主页",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./640-1.jpeg",
+      "sizes": "144x144",
+      "type": "image/jpeg"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "zhihu",
+      "url": "https://www.zhihu.com"
+    }
+  ]
+}
